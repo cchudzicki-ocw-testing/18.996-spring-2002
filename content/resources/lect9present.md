@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lect9present.pdf
 uid: b7e32d5f-9e2a-7516-b75a-342952b472eb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

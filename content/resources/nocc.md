@@ -13,4 +13,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: nocc.gif
 uid: 00e0768a-fb41-9927-b7a1-1331e7c87489
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

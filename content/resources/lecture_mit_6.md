@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture_mit_6.pdf
 uid: 11a67a52-85d7-a111-1069-fd8feb27d9b5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

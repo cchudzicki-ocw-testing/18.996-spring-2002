@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lect11b_mit.pdf
 uid: d0accc2b-8010-fc5b-237e-4fb520d49892
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

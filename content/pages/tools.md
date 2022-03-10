@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Tools
 uid: 667e3437-a91a-0e3f-9112-0a5f3b7069ac
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Please use the following latex package to prepare the notes:

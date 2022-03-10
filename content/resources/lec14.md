@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec14.pdf
 uid: 51d9f4d4-ef86-7775-3fb9-9c92894ced7c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lect3_mit.pdf
 uid: 9b4775b4-c2e6-8fda-6f55-fc4bcf8567e3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

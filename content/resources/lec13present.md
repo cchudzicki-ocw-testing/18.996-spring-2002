@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec13present.pdf
 uid: 906415a8-07ab-23aa-c0fc-8d9f2b099e0e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

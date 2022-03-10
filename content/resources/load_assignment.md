@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: load_assignment.pdf
 uid: faae4666-c46e-b479-cbef-9d39036825b8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

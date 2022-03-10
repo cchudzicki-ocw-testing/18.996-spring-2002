@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec1present.pdf
 uid: 3170cbaa-7807-c4e2-66f7-9bcb58e6b646
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

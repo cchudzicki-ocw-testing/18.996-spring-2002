@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lect3_talk_mit.pdf
 uid: ce8ed7b3-7e30-ac86-1e5a-e57f787cacab
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
